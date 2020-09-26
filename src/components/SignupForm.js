@@ -5,7 +5,7 @@ import SocialForm from './2SocialForm';
 import Review from './3Review';
 import StepLinks from './StepLinks';
 
-export default function SignupFrom() {
+export default function SignupForm() {
     return (
         <div className="signup-form">
             { /* steps and links */ }
